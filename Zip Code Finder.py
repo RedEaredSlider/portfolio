@@ -47,16 +47,12 @@ def process_csv(input_path, output_path):
     print("\nCSV file processed successfully.")
 
 def main():
-    input_file_path = r'C:\Users\RThomas\Desktop\Python\Zip Files\LST-0451_FIA_ONLY.csv'
-    output_file_path = r'C:\Users\RThomas\Desktop\Python\Zip Files\LST-0451_FIA_ONLY_with_zip.csv'
+    input_file_path = r'C:\xxxxxx'
+    output_file_path = r'C:\xxxxxxxx'
     process_csv(input_file_path, output_file_path)
 
 if __name__ == "__main__":
     main()
-
-
-   # input_file_path = r'C:\Users\RThomas\Desktop\Python\Zip Files\LST-0451_FIA_ONLY.csv'
-   # output_file_path = r'C:\Users\RThomas\Desktop\Python\Zip Files\LST-0451_FIA_ONLY_with_zip.csv'
 
 
     
